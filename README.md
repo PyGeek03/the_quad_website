@@ -7,7 +7,7 @@ A website for a fictional dance group. Fully responsive with art direction and a
 
 ### Images courtesy of [Unsplash](https://unsplash.com):
 - Alex.jpg: Edited from [original photo by Randy Kinne](https://unsplash.com/photos/pUy6ccJPysc)
-- Kelly.jpg: Edited from [original photo by Joe Gardner](https://unsplash.com/photos/pAs4IM6OGWI)
+- Kelly.jpg: Edited from [original photo by Joe Gardner](https://web.archive.org/web/20190422140419/https://unsplash.com/photos/pAs4IM6OGWI)
 - Josh.jpg: Edited from [original photo by Warren Wong](https://unsplash.com/photos/VVEwJJRRHgk)
 - Mary.jpg: Edited from [original photo by Blake Cheek](https://unsplash.com/photos/6v11noBZVuo)
 
