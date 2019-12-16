@@ -19,9 +19,7 @@ A website for a fictional dance group. Fully responsive with art direction and a
 - [Fever by Snowflake](dig.ccmixter.org/files/snowflake/52149) (c) copyright 2015. Licensed under a Creative Commons Attribution Noncommercial (3.0) license
 
 ## Template
-- [Dimension by HTML5 UP](html5up.net/dimension)
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+- [Dimension by HTML5 UP](html5up.net/dimension). [Free for personal and commercial use under the CCA 3.0 license](html5up.net/license)
 
 ## Icons:
 - [Font Awesome](fontawesome.io)
